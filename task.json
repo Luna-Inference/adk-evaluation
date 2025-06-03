@@ -1,0 +1,504 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "difficulty": "easy",
+      "question": "What is the capital of France?"
+    },
+    {
+      "id": 2,
+      "difficulty": "easy",
+      "question": "Who is the current President of the United States?"
+    },
+    {
+      "id": 3,
+      "difficulty": "easy",
+      "question": "What year did World War II end?"
+    },
+    {
+      "id": 4,
+      "difficulty": "easy",
+      "question": "What is the largest ocean on Earth?"
+    },
+    {
+      "id": 5,
+      "difficulty": "easy",
+      "question": "Who wrote Romeo and Juliet?"
+    },
+    {
+      "id": 6,
+      "difficulty": "easy",
+      "question": "What is the chemical symbol for water?"
+    },
+    {
+      "id": 7,
+      "difficulty": "easy",
+      "question": "How many continents are there on Earth?"
+    },
+    {
+      "id": 8,
+      "difficulty": "easy",
+      "question": "What is the tallest mountain in the world?"
+    },
+    {
+      "id": 9,
+      "difficulty": "easy",
+      "question": "Who painted the Mona Lisa?"
+    },
+    {
+      "id": 10,
+      "difficulty": "easy",
+      "question": "What is the largest planet in our solar system?"
+    },
+    {
+      "id": 11,
+      "difficulty": "medium",
+      "question": "What is the average lifespan of a blue whale?"
+    },
+    {
+      "id": 12,
+      "difficulty": "medium",
+      "question": "When was the first iPhone released?"
+    },
+    {
+      "id": 13,
+      "difficulty": "medium",
+      "question": "What is the Pythagorean theorem?"
+    },
+    {
+      "id": 14,
+      "difficulty": "medium",
+      "question": "Who was the first woman to win a Nobel Prize?"
+    },
+    {
+      "id": 15,
+      "difficulty": "medium",
+      "question": "What causes northern lights (aurora borealis)?"
+    },
+    {
+      "id": 16,
+      "difficulty": "medium",
+      "question": "What is the main ingredient in traditional Japanese miso soup?"
+    },
+    {
+      "id": 17,
+      "difficulty": "medium",
+      "question": "Which country has the highest life expectancy?"
+    },
+    {
+      "id": 18,
+      "difficulty": "medium",
+      "question": "What is the function of mitochondria in a cell?"
+    },
+    {
+      "id": 19,
+      "difficulty": "medium",
+      "question": "What year was the United Nations founded?"
+    },
+    {
+      "id": 20,
+      "difficulty": "medium",
+      "question": "What is the difference between HTTP and HTTPS?"
+    },
+    {
+      "id": 21,
+      "difficulty": "medium",
+      "question": "Who composed the Four Seasons?"
+    },
+    {
+      "id": 22,
+      "difficulty": "medium",
+      "question": "What is the theory of relativity?"
+    },
+    {
+      "id": 23,
+      "difficulty": "medium",
+      "question": "What is the oldest known civilization?"
+    },
+    {
+      "id": 24,
+      "difficulty": "medium",
+      "question": "What are the main causes of climate change?"
+    },
+    {
+      "id": 25,
+      "difficulty": "medium",
+      "question": "How does a blockchain work?"
+    },
+    {
+      "id": 26,
+      "difficulty": "medium",
+      "question": "What is the process of photosynthesis?"
+    },
+    {
+      "id": 27,
+      "difficulty": "medium",
+      "question": "What are the key features of 5G technology?"
+    },
+    {
+      "id": 28,
+      "difficulty": "medium",
+      "question": "What caused the 2008 financial crisis?"
+    },
+    {
+      "id": 29,
+      "difficulty": "medium",
+      "question": "What is quantum computing?"
+    },
+    {
+      "id": 30,
+      "difficulty": "medium",
+      "question": "Who were the main leaders during World War II?"
+    },
+    {
+      "id": 31,
+      "difficulty": "medium",
+      "question": "What is the history of the internet?"
+    },
+    {
+      "id": 32,
+      "difficulty": "medium",
+      "question": "How do vaccines work?"
+    },
+    {
+      "id": 33,
+      "difficulty": "medium",
+      "question": "What is artificial intelligence?"
+    },
+    {
+      "id": 34,
+      "difficulty": "medium",
+      "question": "What are the different types of renewable energy?"
+    },
+    {
+      "id": 35,
+      "difficulty": "medium",
+      "question": "What is the economic impact of tourism on developing countries?"
+    },
+    {
+      "id": 36,
+      "difficulty": "medium",
+      "question": "How does the electoral college work in US elections?"
+    },
+    {
+      "id": 37,
+      "difficulty": "medium",
+      "question": "What are the health benefits of meditation?"
+    },
+    {
+      "id": 38,
+      "difficulty": "medium",
+      "question": "What is the history of chocolate?"
+    },
+    {
+      "id": 39,
+      "difficulty": "medium",
+      "question": "How do earthquakes occur?"
+    },
+    {
+      "id": 40,
+      "difficulty": "medium",
+      "question": "What is machine learning?"
+    },
+    {
+      "id": 41,
+      "difficulty": "hard",
+      "question": "What are the implications of quantum entanglement on our understanding of physics?"
+    },
+    {
+      "id": 42,
+      "difficulty": "hard",
+      "question": "Compare and contrast the economic systems of Keynesianism and Austrian economics"
+    },
+    {
+      "id": 43,
+      "difficulty": "hard",
+      "question": "What is the current scientific consensus on string theory?"
+    },
+    {
+      "id": 44,
+      "difficulty": "hard",
+      "question": "How has artificial intelligence impacted employment in manufacturing sectors globally?"
+    },
+    {
+      "id": 45,
+      "difficulty": "hard",
+      "question": "What are the ethical considerations in gene editing technologies like CRISPR?"
+    },
+    {
+      "id": 46,
+      "difficulty": "hard",
+      "question": "How do neural networks in deep learning differ from biological neural networks?"
+    },
+    {
+      "id": 47,
+      "difficulty": "hard",
+      "question": "What is the relationship between quantum mechanics and consciousness according to recent theories?"
+    },
+    {
+      "id": 48,
+      "difficulty": "hard",
+      "question": "How has climate change affected marine biodiversity in coral reef ecosystems?"
+    },
+    {
+      "id": 49,
+      "difficulty": "hard",
+      "question": "What are the competing theories about dark matter and dark energy?"
+    },
+    {
+      "id": 50,
+      "difficulty": "hard",
+      "question": "Compare the architectural philosophies of Frank Lloyd Wright and Le Corbusier"
+    },
+    {
+      "id": 51,
+      "difficulty": "hard",
+      "question": "What are the socioeconomic factors contributing to healthcare disparities in developed nations?"
+    },
+    {
+      "id": 52,
+      "difficulty": "hard",
+      "question": "How has the interpretation of the Second Amendment evolved in US Supreme Court decisions?"
+    },
+    {
+      "id": 53,
+      "difficulty": "hard",
+      "question": "What are the main criticisms of Modern Monetary Theory?"
+    },
+    {
+      "id": 54,
+      "difficulty": "hard",
+      "question": "How do different philosophical traditions approach the concept of free will?"
+    },
+    {
+      "id": 55,
+      "difficulty": "hard",
+      "question": "What is the current state of fusion energy research and its potential impact on global energy markets?"
+    },
+    {
+      "id": 56,
+      "difficulty": "hard",
+      "question": "How does neuroplasticity contribute to recovery from traumatic brain injuries?"
+    },
+    {
+      "id": 57,
+      "difficulty": "hard",
+      "question": "What are the mathematical foundations of cryptographic security in blockchain technologies?"
+    },
+    {
+      "id": 58,
+      "difficulty": "hard",
+      "question": "How has globalization affected income inequality within and between nations?"
+    },
+    {
+      "id": 59,
+      "difficulty": "hard",
+      "question": "What are the competing theories on the origin of language in human evolution?"
+    },
+    {
+      "id": 60,
+      "difficulty": "hard",
+      "question": "How do epigenetic changes affect gene expression and inheritance?"
+    },
+    {
+      "id": 61,
+      "difficulty": "hard",
+      "question": "What role does gut microbiome play in mental health according to recent research?"
+    },
+    {
+      "id": 62,
+      "difficulty": "hard",
+      "question": "How do different economic models predict the impact of universal basic income?"
+    },
+    {
+      "id": 63,
+      "difficulty": "hard",
+      "question": "What are the current theories on consciousness in artificial intelligence systems?"
+    },
+    {
+      "id": 64,
+      "difficulty": "hard",
+      "question": "How has quantum computing affected cryptographic security paradigms?"
+    },
+    {
+      "id": 65,
+      "difficulty": "hard",
+      "question": "What are the ecological impacts of rewilding projects in different regions?"
+    },
+    {
+      "id": 66,
+      "difficulty": "complex",
+      "question": "How might advances in brain-computer interfaces affect concepts of human identity and privacy in the next decade?"
+    },
+    {
+      "id": 67,
+      "difficulty": "complex",
+      "question": "What economic and social factors would need to be addressed for a successful transition to a post-scarcity economy?"
+    },
+    {
+      "id": 68,
+      "difficulty": "complex",
+      "question": "How do various philosophical traditions reconcile determinism with moral responsibility?"
+    },
+    {
+      "id": 69,
+      "difficulty": "complex",
+      "question": "What are the potential long-term societal impacts of decreasing biodiversity on human civilization?"
+    },
+    {
+      "id": 70,
+      "difficulty": "complex",
+      "question": "How might advanced AI systems change our understanding of creativity and artistic expression?"
+    },
+    {
+      "id": 71,
+      "difficulty": "complex",
+      "question": "What evidence supports or contradicts the simulation hypothesis, and what are its philosophical implications?"
+    },
+    {
+      "id": 72,
+      "difficulty": "complex",
+      "question": "How might space colonization affect human evolution over multiple generations?"
+    },
+    {
+      "id": 73,
+      "difficulty": "complex",
+      "question": "What are the potential consequences of achieving artificial general intelligence on global governance structures?"
+    },
+    {
+      "id": 74,
+      "difficulty": "complex",
+      "question": "How do different cultures' concepts of time affect their economic and social development?"
+    },
+    {
+      "id": 75,
+      "difficulty": "complex",
+      "question": "What are the potential long-term psychological effects of increasing human lifespans to 150+ years?"
+    },
+    {
+      "id": 76,
+      "difficulty": "complex",
+      "question": "How might quantum field theory and general relativity be reconciled in a theory of everything?"
+    },
+    {
+      "id": 77,
+      "difficulty": "complex",
+      "question": "What mathematical and computational approaches might lead to solving currently intractable P vs NP problems?"
+    },
+    {
+      "id": 78,
+      "difficulty": "complex",
+      "question": "How might advanced nanomedicine affect human society and healthcare systems over the next century?"
+    },
+    {
+      "id": 79,
+      "difficulty": "complex",
+      "question": "What would be the social and economic implications of confirming extraterrestrial intelligence?"
+    },
+    {
+      "id": 80,
+      "difficulty": "complex",
+      "question": "How might future developments in quantum gravity theories change our understanding of the early universe?"
+    },
+    {
+      "id": 81,
+      "difficulty": "multifaceted",
+      "question": "Analyze the potential global economic, social, and environmental impacts of transitioning major transportation systems to autonomous vehicles"
+    },
+    {
+      "id": 82,
+      "difficulty": "multifaceted",
+      "question": "How might climate change, geopolitical tensions, and technological innovations interact to reshape global food security by 2050?"
+    },
+    {
+      "id": 83,
+      "difficulty": "multifaceted",
+      "question": "What are the comparative advantages and disadvantages of different approaches to achieving artificial general intelligence, considering technical feasibility, safety, and ethical implications?"
+    },
+    {
+      "id": 84,
+      "difficulty": "multifaceted",
+      "question": "How do neurological, psychological, sociological, and philosophical perspectives on consciousness complement or contradict each other?"
+    },
+    {
+      "id": 85,
+      "difficulty": "multifaceted",
+      "question": "What factors led to the rise and fall of historical empires, and what lessons might they offer for current global powers?"
+    },
+    {
+      "id": 86,
+      "difficulty": "multifaceted",
+      "question": "How might the convergence of biotechnology, information technology, and nanotechnology transform medicine, ethics, and human enhancement in the next 50 years?"
+    },
+    {
+      "id": 87,
+      "difficulty": "multifaceted",
+      "question": "What are the most promising approaches to mitigating existential risks from advanced technologies, considering technical, governance, and ethical dimensions?"
+    },
+    {
+      "id": 88,
+      "difficulty": "multifaceted",
+      "question": "How do different economic systems, cultural values, and governance structures influence a society's response to environmental challenges?"
+    },
+    {
+      "id": 89,
+      "difficulty": "multifaceted",
+      "question": "What are the historical, biological, sociological, and psychological factors that influence human cooperation and conflict?"
+    },
+    {
+      "id": 90,
+      "difficulty": "multifaceted",
+      "question": "How might future developments in renewable energy, grid technology, and energy storage reshape geopolitics, economics, and environmental policy?"
+    },
+    {
+      "id": 91,
+      "difficulty": "ambiguous",
+      "question": "What is the best approach to education?"
+    },
+    {
+      "id": 92,
+      "difficulty": "ambiguous",
+      "question": "How should society balance freedom and security?"
+    },
+    {
+      "id": 93,
+      "difficulty": "ambiguous",
+      "question": "What makes a good leader?"
+    },
+    {
+      "id": 94,
+      "difficulty": "ambiguous",
+      "question": "Is technological progress always beneficial?"
+    },
+    {
+      "id": 95,
+      "difficulty": "ambiguous",
+      "question": "What constitutes a fair economic system?"
+    },
+    {
+      "id": 96,
+      "difficulty": "ambiguous",
+      "question": "How should we determine the value of art?"
+    },
+    {
+      "id": 97,
+      "difficulty": "ambiguous",
+      "question": "What is the meaning of happiness?"
+    },
+    {
+      "id": 98,
+      "difficulty": "ambiguous",
+      "question": "Are humans inherently good or evil?"
+    },
+    {
+      "id": 99,
+      "difficulty": "ambiguous",
+      "question": "What is the most important problem facing humanity today?"
+    },
+    {
+      "id": 100,
+      "difficulty": "ambiguous",
+      "question": "How should we balance individual rights with collective responsibilities?"
+    }
+  ]
+}

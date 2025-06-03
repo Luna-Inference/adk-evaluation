@@ -98,8 +98,10 @@ def search_web(query: str) -> dict:
 # Example agent setup
 root_agent = Agent(
     name="web_search_agent",
-    model=LiteLlm(model="ollama_chat/phi4-reasoning:14b"),
+    model=LiteLlm(model="ollama_chat/qwen3:1.7b"),
     description="Agent that can search the web for information.",
     instruction="You are a helpful agent who can search the web to find current information and answer user questions.",
     tools=[search_web],
 )
+
+

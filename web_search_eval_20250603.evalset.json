@@ -1,0 +1,3307 @@
+{
+  "eval_set_id": "web_search_eval_set_20250603",
+  "name": "Web Search Agent Evaluation",
+  "description": "Evaluation set for testing web search agent with various difficulty levels",
+  "eval_cases": [
+    {
+      "eval_id": "q_1",
+      "conversation": [
+        {
+          "invocation_id": "ab871ac2-734b-4c3d-ac82-3b54cedb4dd7",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What is the capital of France?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_easy",
+        "state": {
+          "difficulty": "easy",
+          "question_id": 1
+        }
+      },
+      "metadata": {
+        "difficulty": "easy",
+        "question_id": 1
+      }
+    },
+    {
+      "eval_id": "q_2",
+      "conversation": [
+        {
+          "invocation_id": "a8e3f4f8-9550-4e4d-80e0-3b07d83c469d",
+          "user_content": {
+            "parts": [
+              {
+                "text": "Who is the current President of the United States?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_easy",
+        "state": {
+          "difficulty": "easy",
+          "question_id": 2
+        }
+      },
+      "metadata": {
+        "difficulty": "easy",
+        "question_id": 2
+      }
+    },
+    {
+      "eval_id": "q_3",
+      "conversation": [
+        {
+          "invocation_id": "8fc9135c-8fb8-48a3-9604-9279cc309ddc",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What year did World War II end?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_easy",
+        "state": {
+          "difficulty": "easy",
+          "question_id": 3
+        }
+      },
+      "metadata": {
+        "difficulty": "easy",
+        "question_id": 3
+      }
+    },
+    {
+      "eval_id": "q_4",
+      "conversation": [
+        {
+          "invocation_id": "a2dec0fc-e32d-4986-adf5-1a849116a717",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What is the largest ocean on Earth?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_easy",
+        "state": {
+          "difficulty": "easy",
+          "question_id": 4
+        }
+      },
+      "metadata": {
+        "difficulty": "easy",
+        "question_id": 4
+      }
+    },
+    {
+      "eval_id": "q_5",
+      "conversation": [
+        {
+          "invocation_id": "abdce1cc-684b-4f2f-be5e-d59a72cc6a0a",
+          "user_content": {
+            "parts": [
+              {
+                "text": "Who wrote Romeo and Juliet?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_easy",
+        "state": {
+          "difficulty": "easy",
+          "question_id": 5
+        }
+      },
+      "metadata": {
+        "difficulty": "easy",
+        "question_id": 5
+      }
+    },
+    {
+      "eval_id": "q_6",
+      "conversation": [
+        {
+          "invocation_id": "aa5f960b-ca30-4e77-b550-5308ffab70c7",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What is the chemical symbol for water?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_easy",
+        "state": {
+          "difficulty": "easy",
+          "question_id": 6
+        }
+      },
+      "metadata": {
+        "difficulty": "easy",
+        "question_id": 6
+      }
+    },
+    {
+      "eval_id": "q_7",
+      "conversation": [
+        {
+          "invocation_id": "fa363190-9e26-4a55-85c5-2df51582ddce",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How many continents are there on Earth?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_easy",
+        "state": {
+          "difficulty": "easy",
+          "question_id": 7
+        }
+      },
+      "metadata": {
+        "difficulty": "easy",
+        "question_id": 7
+      }
+    },
+    {
+      "eval_id": "q_8",
+      "conversation": [
+        {
+          "invocation_id": "72734e8b-236c-4855-9dd0-255819b0783c",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What is the tallest mountain in the world?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_easy",
+        "state": {
+          "difficulty": "easy",
+          "question_id": 8
+        }
+      },
+      "metadata": {
+        "difficulty": "easy",
+        "question_id": 8
+      }
+    },
+    {
+      "eval_id": "q_9",
+      "conversation": [
+        {
+          "invocation_id": "4f2ee43d-9f87-48a2-8a66-93ff7f4545ce",
+          "user_content": {
+            "parts": [
+              {
+                "text": "Who painted the Mona Lisa?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_easy",
+        "state": {
+          "difficulty": "easy",
+          "question_id": 9
+        }
+      },
+      "metadata": {
+        "difficulty": "easy",
+        "question_id": 9
+      }
+    },
+    {
+      "eval_id": "q_10",
+      "conversation": [
+        {
+          "invocation_id": "e94ce158-9581-4b07-a69e-0a8b04bd68fe",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What is the largest planet in our solar system?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_easy",
+        "state": {
+          "difficulty": "easy",
+          "question_id": 10
+        }
+      },
+      "metadata": {
+        "difficulty": "easy",
+        "question_id": 10
+      }
+    },
+    {
+      "eval_id": "q_11",
+      "conversation": [
+        {
+          "invocation_id": "b892f765-d321-4b8d-b9a2-627019960e40",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What is the average lifespan of a blue whale?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 11
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 11
+      }
+    },
+    {
+      "eval_id": "q_12",
+      "conversation": [
+        {
+          "invocation_id": "aa9061c0-4d1f-4e60-9887-0191bd21d424",
+          "user_content": {
+            "parts": [
+              {
+                "text": "When was the first iPhone released?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 12
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 12
+      }
+    },
+    {
+      "eval_id": "q_13",
+      "conversation": [
+        {
+          "invocation_id": "3f967d54-ca9d-437d-bc93-29b477e709b6",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What is the Pythagorean theorem?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 13
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 13
+      }
+    },
+    {
+      "eval_id": "q_14",
+      "conversation": [
+        {
+          "invocation_id": "4ef9c7a8-0e7e-45d7-bbee-b299358340e3",
+          "user_content": {
+            "parts": [
+              {
+                "text": "Who was the first woman to win a Nobel Prize?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 14
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 14
+      }
+    },
+    {
+      "eval_id": "q_15",
+      "conversation": [
+        {
+          "invocation_id": "303ae2a4-9a02-4648-8605-8faf5b574c92",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What causes northern lights (aurora borealis)?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 15
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 15
+      }
+    },
+    {
+      "eval_id": "q_16",
+      "conversation": [
+        {
+          "invocation_id": "07cdaab3-7c7e-4c56-b44e-7e9549c2958b",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What is the main ingredient in traditional Japanese miso soup?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 16
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 16
+      }
+    },
+    {
+      "eval_id": "q_17",
+      "conversation": [
+        {
+          "invocation_id": "d12b8e3b-1ea5-4aad-b68c-5b1300fd2e7b",
+          "user_content": {
+            "parts": [
+              {
+                "text": "Which country has the highest life expectancy?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 17
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 17
+      }
+    },
+    {
+      "eval_id": "q_18",
+      "conversation": [
+        {
+          "invocation_id": "e0759dac-5c53-4739-89b1-9e858d0601cc",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What is the function of mitochondria in a cell?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 18
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 18
+      }
+    },
+    {
+      "eval_id": "q_19",
+      "conversation": [
+        {
+          "invocation_id": "807995dc-18db-484d-ac7e-136e2345d5ab",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What year was the United Nations founded?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 19
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 19
+      }
+    },
+    {
+      "eval_id": "q_20",
+      "conversation": [
+        {
+          "invocation_id": "5cd702e0-9743-4dc5-8990-714bc4d2ba40",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What is the difference between HTTP and HTTPS?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 20
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 20
+      }
+    },
+    {
+      "eval_id": "q_21",
+      "conversation": [
+        {
+          "invocation_id": "d4c2f502-5298-44cd-b366-fa729b7e8a39",
+          "user_content": {
+            "parts": [
+              {
+                "text": "Who composed the Four Seasons?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 21
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 21
+      }
+    },
+    {
+      "eval_id": "q_22",
+      "conversation": [
+        {
+          "invocation_id": "41ed4d18-04df-4bd8-80b3-8cc153266a08",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What is the theory of relativity?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 22
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 22
+      }
+    },
+    {
+      "eval_id": "q_23",
+      "conversation": [
+        {
+          "invocation_id": "f6d5d14e-fcbf-40b4-a8b3-028c48fe4116",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What is the oldest known civilization?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 23
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 23
+      }
+    },
+    {
+      "eval_id": "q_24",
+      "conversation": [
+        {
+          "invocation_id": "053a437f-3bae-4736-ac9c-1e5b092a3454",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What are the main causes of climate change?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 24
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 24
+      }
+    },
+    {
+      "eval_id": "q_25",
+      "conversation": [
+        {
+          "invocation_id": "28de2d9a-4699-4c24-9751-309f378a38f4",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How does a blockchain work?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 25
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 25
+      }
+    },
+    {
+      "eval_id": "q_26",
+      "conversation": [
+        {
+          "invocation_id": "740aceb2-9fde-4541-8fbf-c5a43292e5c8",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What is the process of photosynthesis?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 26
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 26
+      }
+    },
+    {
+      "eval_id": "q_27",
+      "conversation": [
+        {
+          "invocation_id": "70d2fb0f-9edb-4073-9ef8-917e2b92d797",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What are the key features of 5G technology?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 27
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 27
+      }
+    },
+    {
+      "eval_id": "q_28",
+      "conversation": [
+        {
+          "invocation_id": "92cdd884-9fa2-4b49-a734-8603cd9968ee",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What caused the 2008 financial crisis?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 28
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 28
+      }
+    },
+    {
+      "eval_id": "q_29",
+      "conversation": [
+        {
+          "invocation_id": "e48e1725-0088-44a0-b2e0-68d722b1fc0c",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What is quantum computing?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 29
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 29
+      }
+    },
+    {
+      "eval_id": "q_30",
+      "conversation": [
+        {
+          "invocation_id": "39db4bb5-da40-43a0-a6ca-2e8853a34f00",
+          "user_content": {
+            "parts": [
+              {
+                "text": "Who were the main leaders during World War II?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 30
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 30
+      }
+    },
+    {
+      "eval_id": "q_31",
+      "conversation": [
+        {
+          "invocation_id": "245632ca-c8a6-4dea-bbd0-b0b752dd2a34",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What is the history of the internet?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 31
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 31
+      }
+    },
+    {
+      "eval_id": "q_32",
+      "conversation": [
+        {
+          "invocation_id": "4cb63c40-5664-488f-adb8-0b6b710b2c25",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How do vaccines work?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 32
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 32
+      }
+    },
+    {
+      "eval_id": "q_33",
+      "conversation": [
+        {
+          "invocation_id": "0b9e5926-8b04-4d03-af97-12145703a5fb",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What is artificial intelligence?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 33
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 33
+      }
+    },
+    {
+      "eval_id": "q_34",
+      "conversation": [
+        {
+          "invocation_id": "47544311-40ca-4113-9934-39a1eb815f35",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What are the different types of renewable energy?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 34
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 34
+      }
+    },
+    {
+      "eval_id": "q_35",
+      "conversation": [
+        {
+          "invocation_id": "0d9c34ed-048c-4d9a-9014-475df0fd829e",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What is the economic impact of tourism on developing countries?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 35
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 35
+      }
+    },
+    {
+      "eval_id": "q_36",
+      "conversation": [
+        {
+          "invocation_id": "4f24a71a-3325-4e39-9141-e579f64182a6",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How does the electoral college work in US elections?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 36
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 36
+      }
+    },
+    {
+      "eval_id": "q_37",
+      "conversation": [
+        {
+          "invocation_id": "9c5c545b-6bb8-48d3-9905-666f91c35bf8",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What are the health benefits of meditation?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 37
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 37
+      }
+    },
+    {
+      "eval_id": "q_38",
+      "conversation": [
+        {
+          "invocation_id": "415bab6a-0944-4c97-8210-b9a1043a0f6b",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What is the history of chocolate?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 38
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 38
+      }
+    },
+    {
+      "eval_id": "q_39",
+      "conversation": [
+        {
+          "invocation_id": "047f814b-5891-487a-9355-66db82c47f58",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How do earthquakes occur?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 39
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 39
+      }
+    },
+    {
+      "eval_id": "q_40",
+      "conversation": [
+        {
+          "invocation_id": "0d908e87-d412-4e48-9978-0e57e63beb6f",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What is machine learning?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_medium",
+        "state": {
+          "difficulty": "medium",
+          "question_id": 40
+        }
+      },
+      "metadata": {
+        "difficulty": "medium",
+        "question_id": 40
+      }
+    },
+    {
+      "eval_id": "q_41",
+      "conversation": [
+        {
+          "invocation_id": "ea8f0031-a58e-4615-9eb2-ff0f1bab87a3",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What are the implications of quantum entanglement on our understanding of physics?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_hard",
+        "state": {
+          "difficulty": "hard",
+          "question_id": 41
+        }
+      },
+      "metadata": {
+        "difficulty": "hard",
+        "question_id": 41
+      }
+    },
+    {
+      "eval_id": "q_42",
+      "conversation": [
+        {
+          "invocation_id": "67d1b4b0-3db1-44b3-9f54-0299e81fe6a0",
+          "user_content": {
+            "parts": [
+              {
+                "text": "Compare and contrast the economic systems of Keynesianism and Austrian economics"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_hard",
+        "state": {
+          "difficulty": "hard",
+          "question_id": 42
+        }
+      },
+      "metadata": {
+        "difficulty": "hard",
+        "question_id": 42
+      }
+    },
+    {
+      "eval_id": "q_43",
+      "conversation": [
+        {
+          "invocation_id": "383ba38a-39d8-4243-b98d-8ca5399ff421",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What is the current scientific consensus on string theory?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_hard",
+        "state": {
+          "difficulty": "hard",
+          "question_id": 43
+        }
+      },
+      "metadata": {
+        "difficulty": "hard",
+        "question_id": 43
+      }
+    },
+    {
+      "eval_id": "q_44",
+      "conversation": [
+        {
+          "invocation_id": "31c1c61a-7732-473b-8f72-9257921b6edb",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How has artificial intelligence impacted employment in manufacturing sectors globally?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_hard",
+        "state": {
+          "difficulty": "hard",
+          "question_id": 44
+        }
+      },
+      "metadata": {
+        "difficulty": "hard",
+        "question_id": 44
+      }
+    },
+    {
+      "eval_id": "q_45",
+      "conversation": [
+        {
+          "invocation_id": "fa25d9ef-d104-43f1-abd3-3dc8a073e934",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What are the ethical considerations in gene editing technologies like CRISPR?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_hard",
+        "state": {
+          "difficulty": "hard",
+          "question_id": 45
+        }
+      },
+      "metadata": {
+        "difficulty": "hard",
+        "question_id": 45
+      }
+    },
+    {
+      "eval_id": "q_46",
+      "conversation": [
+        {
+          "invocation_id": "bc15581e-a5c0-4ee7-8fbd-9b6ca5123e39",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How do neural networks in deep learning differ from biological neural networks?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_hard",
+        "state": {
+          "difficulty": "hard",
+          "question_id": 46
+        }
+      },
+      "metadata": {
+        "difficulty": "hard",
+        "question_id": 46
+      }
+    },
+    {
+      "eval_id": "q_47",
+      "conversation": [
+        {
+          "invocation_id": "2fef0b69-508f-4b62-a369-2acebddf74f7",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What is the relationship between quantum mechanics and consciousness according to recent theories?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_hard",
+        "state": {
+          "difficulty": "hard",
+          "question_id": 47
+        }
+      },
+      "metadata": {
+        "difficulty": "hard",
+        "question_id": 47
+      }
+    },
+    {
+      "eval_id": "q_48",
+      "conversation": [
+        {
+          "invocation_id": "d99b6de7-5307-48ad-9aab-cf47e22f3520",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How has climate change affected marine biodiversity in coral reef ecosystems?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_hard",
+        "state": {
+          "difficulty": "hard",
+          "question_id": 48
+        }
+      },
+      "metadata": {
+        "difficulty": "hard",
+        "question_id": 48
+      }
+    },
+    {
+      "eval_id": "q_49",
+      "conversation": [
+        {
+          "invocation_id": "83bb76b1-cdcc-441b-974d-8bee5c365067",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What are the competing theories about dark matter and dark energy?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_hard",
+        "state": {
+          "difficulty": "hard",
+          "question_id": 49
+        }
+      },
+      "metadata": {
+        "difficulty": "hard",
+        "question_id": 49
+      }
+    },
+    {
+      "eval_id": "q_50",
+      "conversation": [
+        {
+          "invocation_id": "d29ff876-d4c6-49ec-8add-93b3348fe90f",
+          "user_content": {
+            "parts": [
+              {
+                "text": "Compare the architectural philosophies of Frank Lloyd Wright and Le Corbusier"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_hard",
+        "state": {
+          "difficulty": "hard",
+          "question_id": 50
+        }
+      },
+      "metadata": {
+        "difficulty": "hard",
+        "question_id": 50
+      }
+    },
+    {
+      "eval_id": "q_51",
+      "conversation": [
+        {
+          "invocation_id": "2347394a-eeca-4047-b7a2-61d9878bc790",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What are the socioeconomic factors contributing to healthcare disparities in developed nations?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_hard",
+        "state": {
+          "difficulty": "hard",
+          "question_id": 51
+        }
+      },
+      "metadata": {
+        "difficulty": "hard",
+        "question_id": 51
+      }
+    },
+    {
+      "eval_id": "q_52",
+      "conversation": [
+        {
+          "invocation_id": "200e815a-2a6d-4b6b-8545-6899dded903b",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How has the interpretation of the Second Amendment evolved in US Supreme Court decisions?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_hard",
+        "state": {
+          "difficulty": "hard",
+          "question_id": 52
+        }
+      },
+      "metadata": {
+        "difficulty": "hard",
+        "question_id": 52
+      }
+    },
+    {
+      "eval_id": "q_53",
+      "conversation": [
+        {
+          "invocation_id": "38318903-62ed-47fd-8db9-ce96419d92e8",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What are the main criticisms of Modern Monetary Theory?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_hard",
+        "state": {
+          "difficulty": "hard",
+          "question_id": 53
+        }
+      },
+      "metadata": {
+        "difficulty": "hard",
+        "question_id": 53
+      }
+    },
+    {
+      "eval_id": "q_54",
+      "conversation": [
+        {
+          "invocation_id": "4446108c-03a9-46c5-970b-cf37b4156df4",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How do different philosophical traditions approach the concept of free will?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_hard",
+        "state": {
+          "difficulty": "hard",
+          "question_id": 54
+        }
+      },
+      "metadata": {
+        "difficulty": "hard",
+        "question_id": 54
+      }
+    },
+    {
+      "eval_id": "q_55",
+      "conversation": [
+        {
+          "invocation_id": "59e30586-4147-4ec9-b7e3-23f8a84943cb",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What is the current state of fusion energy research and its potential impact on global energy markets?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_hard",
+        "state": {
+          "difficulty": "hard",
+          "question_id": 55
+        }
+      },
+      "metadata": {
+        "difficulty": "hard",
+        "question_id": 55
+      }
+    },
+    {
+      "eval_id": "q_56",
+      "conversation": [
+        {
+          "invocation_id": "144b9bcd-1984-4a39-b7c9-aeb58c97622f",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How does neuroplasticity contribute to recovery from traumatic brain injuries?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_hard",
+        "state": {
+          "difficulty": "hard",
+          "question_id": 56
+        }
+      },
+      "metadata": {
+        "difficulty": "hard",
+        "question_id": 56
+      }
+    },
+    {
+      "eval_id": "q_57",
+      "conversation": [
+        {
+          "invocation_id": "fa0ff4a5-73dc-487d-82db-08fd7fd03f52",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What are the mathematical foundations of cryptographic security in blockchain technologies?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_hard",
+        "state": {
+          "difficulty": "hard",
+          "question_id": 57
+        }
+      },
+      "metadata": {
+        "difficulty": "hard",
+        "question_id": 57
+      }
+    },
+    {
+      "eval_id": "q_58",
+      "conversation": [
+        {
+          "invocation_id": "4face357-4b63-4f4c-99dc-6e89d3536e2c",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How has globalization affected income inequality within and between nations?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_hard",
+        "state": {
+          "difficulty": "hard",
+          "question_id": 58
+        }
+      },
+      "metadata": {
+        "difficulty": "hard",
+        "question_id": 58
+      }
+    },
+    {
+      "eval_id": "q_59",
+      "conversation": [
+        {
+          "invocation_id": "70b04850-69a0-4f9c-83ff-88e5e121d5f7",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What are the competing theories on the origin of language in human evolution?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_hard",
+        "state": {
+          "difficulty": "hard",
+          "question_id": 59
+        }
+      },
+      "metadata": {
+        "difficulty": "hard",
+        "question_id": 59
+      }
+    },
+    {
+      "eval_id": "q_60",
+      "conversation": [
+        {
+          "invocation_id": "f0d526f4-3a91-43cb-8632-475113b65282",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How do epigenetic changes affect gene expression and inheritance?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_hard",
+        "state": {
+          "difficulty": "hard",
+          "question_id": 60
+        }
+      },
+      "metadata": {
+        "difficulty": "hard",
+        "question_id": 60
+      }
+    },
+    {
+      "eval_id": "q_61",
+      "conversation": [
+        {
+          "invocation_id": "67c0181f-99c3-4569-be49-a8716d3acb7c",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What role does gut microbiome play in mental health according to recent research?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_hard",
+        "state": {
+          "difficulty": "hard",
+          "question_id": 61
+        }
+      },
+      "metadata": {
+        "difficulty": "hard",
+        "question_id": 61
+      }
+    },
+    {
+      "eval_id": "q_62",
+      "conversation": [
+        {
+          "invocation_id": "a01b6939-aeb7-4a72-8bba-aa69c9c5525d",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How do different economic models predict the impact of universal basic income?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_hard",
+        "state": {
+          "difficulty": "hard",
+          "question_id": 62
+        }
+      },
+      "metadata": {
+        "difficulty": "hard",
+        "question_id": 62
+      }
+    },
+    {
+      "eval_id": "q_63",
+      "conversation": [
+        {
+          "invocation_id": "1919a58d-7a32-4350-b45a-74a196c641c2",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What are the current theories on consciousness in artificial intelligence systems?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_hard",
+        "state": {
+          "difficulty": "hard",
+          "question_id": 63
+        }
+      },
+      "metadata": {
+        "difficulty": "hard",
+        "question_id": 63
+      }
+    },
+    {
+      "eval_id": "q_64",
+      "conversation": [
+        {
+          "invocation_id": "35c8ac5d-871c-4587-89ce-e57bc7cbd144",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How has quantum computing affected cryptographic security paradigms?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_hard",
+        "state": {
+          "difficulty": "hard",
+          "question_id": 64
+        }
+      },
+      "metadata": {
+        "difficulty": "hard",
+        "question_id": 64
+      }
+    },
+    {
+      "eval_id": "q_65",
+      "conversation": [
+        {
+          "invocation_id": "9b2e1d4b-012a-44b3-891a-00401ba4b661",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What are the ecological impacts of rewilding projects in different regions?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_hard",
+        "state": {
+          "difficulty": "hard",
+          "question_id": 65
+        }
+      },
+      "metadata": {
+        "difficulty": "hard",
+        "question_id": 65
+      }
+    },
+    {
+      "eval_id": "q_66",
+      "conversation": [
+        {
+          "invocation_id": "31dea984-3949-49de-8409-357243f1360a",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How might advances in brain-computer interfaces affect concepts of human identity and privacy in the next decade?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_complex",
+        "state": {
+          "difficulty": "complex",
+          "question_id": 66
+        }
+      },
+      "metadata": {
+        "difficulty": "complex",
+        "question_id": 66
+      }
+    },
+    {
+      "eval_id": "q_67",
+      "conversation": [
+        {
+          "invocation_id": "7ab363a7-90dd-4c1b-b18d-8669a40f3b38",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What economic and social factors would need to be addressed for a successful transition to a post-scarcity economy?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_complex",
+        "state": {
+          "difficulty": "complex",
+          "question_id": 67
+        }
+      },
+      "metadata": {
+        "difficulty": "complex",
+        "question_id": 67
+      }
+    },
+    {
+      "eval_id": "q_68",
+      "conversation": [
+        {
+          "invocation_id": "ef612127-44c9-45a7-ad76-1d461b79e626",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How do various philosophical traditions reconcile determinism with moral responsibility?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_complex",
+        "state": {
+          "difficulty": "complex",
+          "question_id": 68
+        }
+      },
+      "metadata": {
+        "difficulty": "complex",
+        "question_id": 68
+      }
+    },
+    {
+      "eval_id": "q_69",
+      "conversation": [
+        {
+          "invocation_id": "ca468393-58e0-4c79-98fd-cad013838efe",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What are the potential long-term societal impacts of decreasing biodiversity on human civilization?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_complex",
+        "state": {
+          "difficulty": "complex",
+          "question_id": 69
+        }
+      },
+      "metadata": {
+        "difficulty": "complex",
+        "question_id": 69
+      }
+    },
+    {
+      "eval_id": "q_70",
+      "conversation": [
+        {
+          "invocation_id": "60f2edac-aaa5-45ed-8000-2ebd413b6c6d",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How might advanced AI systems change our understanding of creativity and artistic expression?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_complex",
+        "state": {
+          "difficulty": "complex",
+          "question_id": 70
+        }
+      },
+      "metadata": {
+        "difficulty": "complex",
+        "question_id": 70
+      }
+    },
+    {
+      "eval_id": "q_71",
+      "conversation": [
+        {
+          "invocation_id": "ab051c0c-6d24-4440-93f9-88d7b06ac014",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What evidence supports or contradicts the simulation hypothesis, and what are its philosophical implications?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_complex",
+        "state": {
+          "difficulty": "complex",
+          "question_id": 71
+        }
+      },
+      "metadata": {
+        "difficulty": "complex",
+        "question_id": 71
+      }
+    },
+    {
+      "eval_id": "q_72",
+      "conversation": [
+        {
+          "invocation_id": "8a546dbd-1fef-4a13-b87e-8a8fc9d56d18",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How might space colonization affect human evolution over multiple generations?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_complex",
+        "state": {
+          "difficulty": "complex",
+          "question_id": 72
+        }
+      },
+      "metadata": {
+        "difficulty": "complex",
+        "question_id": 72
+      }
+    },
+    {
+      "eval_id": "q_73",
+      "conversation": [
+        {
+          "invocation_id": "6f61e4c8-e5c4-44da-bc02-0221e5e85b30",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What are the potential consequences of achieving artificial general intelligence on global governance structures?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_complex",
+        "state": {
+          "difficulty": "complex",
+          "question_id": 73
+        }
+      },
+      "metadata": {
+        "difficulty": "complex",
+        "question_id": 73
+      }
+    },
+    {
+      "eval_id": "q_74",
+      "conversation": [
+        {
+          "invocation_id": "9794a57d-3880-47b2-bbe9-bdb67580dfef",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How do different cultures' concepts of time affect their economic and social development?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_complex",
+        "state": {
+          "difficulty": "complex",
+          "question_id": 74
+        }
+      },
+      "metadata": {
+        "difficulty": "complex",
+        "question_id": 74
+      }
+    },
+    {
+      "eval_id": "q_75",
+      "conversation": [
+        {
+          "invocation_id": "1e16bd7b-bf19-47d2-93a4-e954d2f22794",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What are the potential long-term psychological effects of increasing human lifespans to 150+ years?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_complex",
+        "state": {
+          "difficulty": "complex",
+          "question_id": 75
+        }
+      },
+      "metadata": {
+        "difficulty": "complex",
+        "question_id": 75
+      }
+    },
+    {
+      "eval_id": "q_76",
+      "conversation": [
+        {
+          "invocation_id": "d46799b0-108f-46a6-8167-b7eb1f2eaef5",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How might quantum field theory and general relativity be reconciled in a theory of everything?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_complex",
+        "state": {
+          "difficulty": "complex",
+          "question_id": 76
+        }
+      },
+      "metadata": {
+        "difficulty": "complex",
+        "question_id": 76
+      }
+    },
+    {
+      "eval_id": "q_77",
+      "conversation": [
+        {
+          "invocation_id": "d84a6124-1502-4fda-a99b-9e8750c9f16e",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What mathematical and computational approaches might lead to solving currently intractable P vs NP problems?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_complex",
+        "state": {
+          "difficulty": "complex",
+          "question_id": 77
+        }
+      },
+      "metadata": {
+        "difficulty": "complex",
+        "question_id": 77
+      }
+    },
+    {
+      "eval_id": "q_78",
+      "conversation": [
+        {
+          "invocation_id": "08d7b7e3-22dd-471e-97e0-9fe0d08433c1",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How might advanced nanomedicine affect human society and healthcare systems over the next century?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_complex",
+        "state": {
+          "difficulty": "complex",
+          "question_id": 78
+        }
+      },
+      "metadata": {
+        "difficulty": "complex",
+        "question_id": 78
+      }
+    },
+    {
+      "eval_id": "q_79",
+      "conversation": [
+        {
+          "invocation_id": "13f91f04-1cd2-4d4d-ab31-cc41121fd43f",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What would be the social and economic implications of confirming extraterrestrial intelligence?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_complex",
+        "state": {
+          "difficulty": "complex",
+          "question_id": 79
+        }
+      },
+      "metadata": {
+        "difficulty": "complex",
+        "question_id": 79
+      }
+    },
+    {
+      "eval_id": "q_80",
+      "conversation": [
+        {
+          "invocation_id": "356a5f46-fe69-456a-b090-1066fdc502c2",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How might future developments in quantum gravity theories change our understanding of the early universe?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_complex",
+        "state": {
+          "difficulty": "complex",
+          "question_id": 80
+        }
+      },
+      "metadata": {
+        "difficulty": "complex",
+        "question_id": 80
+      }
+    },
+    {
+      "eval_id": "q_81",
+      "conversation": [
+        {
+          "invocation_id": "53fd4170-0dfd-4f21-9d65-f31e3a2ca5f6",
+          "user_content": {
+            "parts": [
+              {
+                "text": "Analyze the potential global economic, social, and environmental impacts of transitioning major transportation systems to autonomous vehicles"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_multifaceted",
+        "state": {
+          "difficulty": "multifaceted",
+          "question_id": 81
+        }
+      },
+      "metadata": {
+        "difficulty": "multifaceted",
+        "question_id": 81
+      }
+    },
+    {
+      "eval_id": "q_82",
+      "conversation": [
+        {
+          "invocation_id": "1adec038-f578-48db-8c10-a00df032a8d6",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How might climate change, geopolitical tensions, and technological innovations interact to reshape global food security by 2050?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_multifaceted",
+        "state": {
+          "difficulty": "multifaceted",
+          "question_id": 82
+        }
+      },
+      "metadata": {
+        "difficulty": "multifaceted",
+        "question_id": 82
+      }
+    },
+    {
+      "eval_id": "q_83",
+      "conversation": [
+        {
+          "invocation_id": "dc4ea3a4-2964-4978-aeb5-8146188aa4a6",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What are the comparative advantages and disadvantages of different approaches to achieving artificial general intelligence, considering technical feasibility, safety, and ethical implications?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_multifaceted",
+        "state": {
+          "difficulty": "multifaceted",
+          "question_id": 83
+        }
+      },
+      "metadata": {
+        "difficulty": "multifaceted",
+        "question_id": 83
+      }
+    },
+    {
+      "eval_id": "q_84",
+      "conversation": [
+        {
+          "invocation_id": "a26d7f19-0164-48d4-8182-316848d7c9f4",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How do neurological, psychological, sociological, and philosophical perspectives on consciousness complement or contradict each other?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_multifaceted",
+        "state": {
+          "difficulty": "multifaceted",
+          "question_id": 84
+        }
+      },
+      "metadata": {
+        "difficulty": "multifaceted",
+        "question_id": 84
+      }
+    },
+    {
+      "eval_id": "q_85",
+      "conversation": [
+        {
+          "invocation_id": "7e46e8d3-6834-4bdb-a68e-f5ba15cb346c",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What factors led to the rise and fall of historical empires, and what lessons might they offer for current global powers?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_multifaceted",
+        "state": {
+          "difficulty": "multifaceted",
+          "question_id": 85
+        }
+      },
+      "metadata": {
+        "difficulty": "multifaceted",
+        "question_id": 85
+      }
+    },
+    {
+      "eval_id": "q_86",
+      "conversation": [
+        {
+          "invocation_id": "ff39bc5d-101a-4370-917d-a83a069b1c8b",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How might the convergence of biotechnology, information technology, and nanotechnology transform medicine, ethics, and human enhancement in the next 50 years?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_multifaceted",
+        "state": {
+          "difficulty": "multifaceted",
+          "question_id": 86
+        }
+      },
+      "metadata": {
+        "difficulty": "multifaceted",
+        "question_id": 86
+      }
+    },
+    {
+      "eval_id": "q_87",
+      "conversation": [
+        {
+          "invocation_id": "f7049ba1-ca30-4a6c-bcb8-751977592060",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What are the most promising approaches to mitigating existential risks from advanced technologies, considering technical, governance, and ethical dimensions?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_multifaceted",
+        "state": {
+          "difficulty": "multifaceted",
+          "question_id": 87
+        }
+      },
+      "metadata": {
+        "difficulty": "multifaceted",
+        "question_id": 87
+      }
+    },
+    {
+      "eval_id": "q_88",
+      "conversation": [
+        {
+          "invocation_id": "a3839acc-274d-4f82-9f5e-f98b49ee50a5",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How do different economic systems, cultural values, and governance structures influence a society's response to environmental challenges?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_multifaceted",
+        "state": {
+          "difficulty": "multifaceted",
+          "question_id": 88
+        }
+      },
+      "metadata": {
+        "difficulty": "multifaceted",
+        "question_id": 88
+      }
+    },
+    {
+      "eval_id": "q_89",
+      "conversation": [
+        {
+          "invocation_id": "c6bb5e52-8380-42d3-85a5-12fc6c947909",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What are the historical, biological, sociological, and psychological factors that influence human cooperation and conflict?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_multifaceted",
+        "state": {
+          "difficulty": "multifaceted",
+          "question_id": 89
+        }
+      },
+      "metadata": {
+        "difficulty": "multifaceted",
+        "question_id": 89
+      }
+    },
+    {
+      "eval_id": "q_90",
+      "conversation": [
+        {
+          "invocation_id": "87474610-067f-4781-9298-b8e871f7214e",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How might future developments in renewable energy, grid technology, and energy storage reshape geopolitics, economics, and environmental policy?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_multifaceted",
+        "state": {
+          "difficulty": "multifaceted",
+          "question_id": 90
+        }
+      },
+      "metadata": {
+        "difficulty": "multifaceted",
+        "question_id": 90
+      }
+    },
+    {
+      "eval_id": "q_91",
+      "conversation": [
+        {
+          "invocation_id": "092d9e6c-bada-4e32-b4c4-2a09c0a8c78e",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What is the best approach to education?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_ambiguous",
+        "state": {
+          "difficulty": "ambiguous",
+          "question_id": 91
+        }
+      },
+      "metadata": {
+        "difficulty": "ambiguous",
+        "question_id": 91
+      }
+    },
+    {
+      "eval_id": "q_92",
+      "conversation": [
+        {
+          "invocation_id": "d65cd8f6-d882-42bf-866b-7fd7c7013a38",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How should society balance freedom and security?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_ambiguous",
+        "state": {
+          "difficulty": "ambiguous",
+          "question_id": 92
+        }
+      },
+      "metadata": {
+        "difficulty": "ambiguous",
+        "question_id": 92
+      }
+    },
+    {
+      "eval_id": "q_93",
+      "conversation": [
+        {
+          "invocation_id": "a0671b14-3ed9-47e7-8516-7a2af64770e5",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What makes a good leader?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_ambiguous",
+        "state": {
+          "difficulty": "ambiguous",
+          "question_id": 93
+        }
+      },
+      "metadata": {
+        "difficulty": "ambiguous",
+        "question_id": 93
+      }
+    },
+    {
+      "eval_id": "q_94",
+      "conversation": [
+        {
+          "invocation_id": "3ec54655-01f1-41e4-9c6c-22ca6b10e5e6",
+          "user_content": {
+            "parts": [
+              {
+                "text": "Is technological progress always beneficial?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_ambiguous",
+        "state": {
+          "difficulty": "ambiguous",
+          "question_id": 94
+        }
+      },
+      "metadata": {
+        "difficulty": "ambiguous",
+        "question_id": 94
+      }
+    },
+    {
+      "eval_id": "q_95",
+      "conversation": [
+        {
+          "invocation_id": "f2ce814a-c2a0-4ed3-a1c7-7fa011cf6f30",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What constitutes a fair economic system?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_ambiguous",
+        "state": {
+          "difficulty": "ambiguous",
+          "question_id": 95
+        }
+      },
+      "metadata": {
+        "difficulty": "ambiguous",
+        "question_id": 95
+      }
+    },
+    {
+      "eval_id": "q_96",
+      "conversation": [
+        {
+          "invocation_id": "1b47931e-8cea-4412-9b98-66600245bd31",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How should we determine the value of art?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_ambiguous",
+        "state": {
+          "difficulty": "ambiguous",
+          "question_id": 96
+        }
+      },
+      "metadata": {
+        "difficulty": "ambiguous",
+        "question_id": 96
+      }
+    },
+    {
+      "eval_id": "q_97",
+      "conversation": [
+        {
+          "invocation_id": "7a5089a1-08f5-4a3c-97b6-7f585e0796d4",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What is the meaning of happiness?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_ambiguous",
+        "state": {
+          "difficulty": "ambiguous",
+          "question_id": 97
+        }
+      },
+      "metadata": {
+        "difficulty": "ambiguous",
+        "question_id": 97
+      }
+    },
+    {
+      "eval_id": "q_98",
+      "conversation": [
+        {
+          "invocation_id": "f1d0e74d-0dcc-4951-bce4-78fab9e4a788",
+          "user_content": {
+            "parts": [
+              {
+                "text": "Are humans inherently good or evil?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_ambiguous",
+        "state": {
+          "difficulty": "ambiguous",
+          "question_id": 98
+        }
+      },
+      "metadata": {
+        "difficulty": "ambiguous",
+        "question_id": 98
+      }
+    },
+    {
+      "eval_id": "q_99",
+      "conversation": [
+        {
+          "invocation_id": "8f4d0adc-0291-4d4f-86a5-9a953315dd13",
+          "user_content": {
+            "parts": [
+              {
+                "text": "What is the most important problem facing humanity today?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_ambiguous",
+        "state": {
+          "difficulty": "ambiguous",
+          "question_id": 99
+        }
+      },
+      "metadata": {
+        "difficulty": "ambiguous",
+        "question_id": 99
+      }
+    },
+    {
+      "eval_id": "q_100",
+      "conversation": [
+        {
+          "invocation_id": "c40f4b19-be9e-4ed0-a553-417b35572f2d",
+          "user_content": {
+            "parts": [
+              {
+                "text": "How should we balance individual rights with collective responsibilities?"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": null,
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          }
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "eval_user_ambiguous",
+        "state": {
+          "difficulty": "ambiguous",
+          "question_id": 100
+        }
+      },
+      "metadata": {
+        "difficulty": "ambiguous",
+        "question_id": 100
+      }
+    }
+  ]
+}
