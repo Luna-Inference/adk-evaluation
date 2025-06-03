@@ -61,7 +61,7 @@ for question in questions:
     eval_set["eval_cases"].append(eval_case)
 
 # Save the evaluation set to a file
-output_filename = f"web_search_eval_{datetime.now().strftime('%Y%m%d')}.evalset.json"
+output_filename = f"web_search_eval_{datetime.now().strftime('%Y%m%d')}.test.json"
 with open(output_filename, 'w') as f:
     json.dump(eval_set, f, indent=2)
 
